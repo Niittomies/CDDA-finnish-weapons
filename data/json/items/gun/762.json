@@ -126,7 +126,8 @@
     "weight": "3500 g",
     "material": [ "steel", "plastic" ],
     "color": "brown",
-    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 3 ] ]
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 3 ] ],
+    "magazines": [ [ "762", [ "rkmag", "akmmag", "akmbigmag" ] ] ]
   },
   {
     "id": "rk62tp",
@@ -139,7 +140,8 @@
     "material": [ "steel", "plastic" ],
     "color": "brown",
     "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 3 ] ],
-	"default_mods": [ "folding_stock" ]
+    "default_mods": [ "folding_stock" ],
+    "magazines": [ [ "762", [ "rkmag", "akmmag", "akmbigmag" ] ] ]
   },
   {
     "id": "valmet62",
@@ -151,7 +153,8 @@
     "weight": "3500 g",
     "material": [ "steel", "plastic" ],
     "color": "brown",
-	"modes": [ [ "DEFAULT", "semi-auto", 1 ] ]
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ] ],
+    "magazines": [ [ "762", [ "rkmag", "akmmag", "akmbigmag" ] ] ]
   },
   {
     "id": "rk95",
@@ -163,7 +166,8 @@
     "weight": "3700 g",
     "material": [ "steel", "plastic" ],
     "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 3 ] ],
-    "default_mods": [ "folding_stock" ]
+    "default_mods": [ "folding_stock" ],
+    "magazines": [ [ "762", [ "rkmag", "akmmag", "akmbigmag" ] ] ]
   },
   {
     "id": "kk62",
