@@ -1,0 +1,25 @@
+[
+  {
+    "type": "item_group",
+    "id": "guns_pistol_obscure",
+    "//": "Imported or otherwise very obscure pistols.",
+    "items": [
+	  { "item": "lahti35", "prob": 50, "charges-min": 0, "charges-max": 8 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "guns_rifle_obscure",
+    "//": "Imported or otherwise very obscure rifles.",
+    "items": [
+	  { "item": "rk62", "prob": 50, "charges-min": 0, "charges-max": 30 },
+	  { "item": "rk62tp", "prob": 50, "charges-min": 0, "charges-max": 30 },
+	  { "item": "valmet62", "prob": 75, "charges-min": 0, "charges-max": 30 },
+	  { "item": "rk95", "prob": 10, "charges-min": 0, "charges-max": 30 },
+	  { "item": "kk62", "prob": 25, "charges-min": 0, "charges-max": 100 },
+	  { "item": "sakotrg_300", "prob": 50, "charges-min": 0, "charges-max": 7 },
+	  { "item": "sakotrg_308", "prob": 50, "charges-min": 0, "charges-max": 10 },
+	  { "item": "tkiv85", "prob": 25, "charges-min": 0, "charges-max": 5 }
+    ]
+  }
+]

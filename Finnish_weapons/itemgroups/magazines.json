@@ -1,0 +1,14 @@
+[
+  {
+    "type": "item_group",
+    "id": "mags_obscure",
+    "//": "Magazines for imported firearms.",
+    "items": [
+	  [ "lahtimag", 10 ],
+	  [ "rkmag", 10 ],
+	  [ "sakotrg_300mag", 10 ],
+	  [ "sakotrg_308mag", 10 ],
+	  [ "belt762", 10 ]
+    ]
+  }
+]
