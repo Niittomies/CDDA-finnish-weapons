@@ -67,5 +67,15 @@
     "capacity": 30,
     "reliability": 9,
     "flags": [ "MAG_COMPACT" ]
+  },
+  {
+    "id": "belt762",
+    "copy-from": "magazine_belt",
+    "type": "MAGAZINE",
+    "name": { "str": "7.62x39mm ammo belt" },
+    "ammo_type": "762",
+    "capacity": 100,
+    "count": 100,
+    "linkage": "ammolink762"
   }
 ]
