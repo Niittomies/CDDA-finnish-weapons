@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "fin_weapons",
+    "name": "Finnish weapons",
+    "authors": [ "Niittomies" ],
+    "maintainers": [ "Niittomies" ],
+    "description": "Adds finnish weapons.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
