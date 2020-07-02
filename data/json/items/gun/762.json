@@ -118,43 +118,51 @@
   },
   {
     "id": "rk62",
-	"copy-from": "ak47",
+    "copy-from": "ak47",
     "looks_like": "ar15",
-	"type": "GUN",
+    "type": "GUN",
     "name": { "str": "RK 62" },
     "description": "RK 62 is a finnish assault rifle manufactured by Valmet and Sako. Standard issue weapon of the Finnish Defence Forces.",
     "weight": "3500 g",
     "material": [ "steel", "plastic" ],
     "color": "brown",
-    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 3 ] ],
-    "magazines": [ [ "762", [ "akmmag", "akmbigmag", "rkmag" ] ] ]
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 3 ] ]
   },
   {
     "id": "rk62tp",
-	"copy-from": "ak47",
+    "copy-from": "ak47",
     "looks_like": "ar15",
-	"type": "GUN",
+    "type": "GUN",
     "name": { "str": "RK 62 TP" },
     "description": "RK 62 is a finnish assault rifle manufactured by Valmet and Sako. Standard issue weapon of the Finnish Defence Forces. Now with folding stock.",
     "weight": "3500 g",
     "material": [ "steel", "plastic" ],
     "color": "brown",
     "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 3 ] ],
-	"default_mods": [ "folding_stock" ],
-    "magazines": [ [ "762", [ "akmmag", "akmbigmag", "rkmag" ] ] ]
+	"default_mods": [ "folding_stock" ]
   },
   {
     "id": "valmet62",
-	"copy-from": "ak47",
+    "copy-from": "ak47",
     "looks_like": "ar15",
-	"type": "GUN",
+    "type": "GUN",
     "name": { "str": "Valmet M62/S" },
     "description": "A civilian semi-automatic variant of the finnish assault rifle RK 62.",
     "weight": "3500 g",
     "material": [ "steel", "plastic" ],
     "color": "brown",
-	"modes": [ [ "DEFAULT", "semi-auto", 1 ] ],
-    "magazines": [ [ "762", [ "akmmag", "akmbigmag", "rkmag" ] ] ]
+	"modes": [ [ "DEFAULT", "semi-auto", 1 ] ]
+  },
+  {
+    "id": "rk95",
+    "copy-from": "ak47",
+    "looks_like": "ak47",
+    "type": "GUN",
+    "name": { "str": "RK 95 TP" },
+    "description": "A finnish assault rifle adopted in relatively small numbers by the Finnish Defence Forces in the 90s.",
+    "weight": "3700 g",
+    "material": [ "steel", "plastic" ],
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 3 ] ],
+    "default_mods": [ "folding_stock" ]
   }
 ]
- 
